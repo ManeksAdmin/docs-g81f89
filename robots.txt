@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-0wtych.haybaleman.co.nz/sitemap.xml
